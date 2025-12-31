@@ -40,8 +40,8 @@ The program runs until any key is pressed.
 Clone the repository:
 
 ```bash
-git clone https://github.com/DouglasFreshHabian/fire.py.git
-cd fire.py
+git clone https://github.com/DouglasFreshHabian/TerminalFire.git
+cd TerminalFire
 ```
 
 Ensure the script is executable (optional):
