@@ -86,7 +86,7 @@ This approach is efficient and well-suited for real-time terminal animation.
 
 ## ☕ Support This Project
 
-If **TerminalFire™** helps your OSINT, consider supporting continued development:
+If **TerminalFire™** added to your Terminal, consider supporting continued development:
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/dfreshZ" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
